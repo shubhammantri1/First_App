@@ -1,6 +1,6 @@
 # Android
 Hello Guys, Here I am Providing an illustration of Button and Toast in Android. 
-I am creating an app that shows a message on clicking Button.
+I am creating an app that shows a Toast on clicking Button.
 # What is Toast??
 A toast provides simple feedback about an operation in a small popup. 
 It only fills the amount of space required for the message and the current activity remains visible and interactive. 
