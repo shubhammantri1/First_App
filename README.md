@@ -1,5 +1,5 @@
 # Android
-Hello Guys, Here I am Providing a illustration of Button and Toast in Android. 
+Hello Guys, Here I am Providing an illustration of Button and Toast in Android. 
 I am creating an app that shows a message on clicking Button.
 # What is Toast??
 A toast provides simple feedback about an operation in a small popup. 
